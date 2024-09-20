@@ -1,0 +1,15 @@
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\bin\Debug\net8.0\c-desafio-dio-hospedagem-hotel.exe
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\bin\Debug\net8.0\c-desafio-dio-hospedagem-hotel.deps.json
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\bin\Debug\net8.0\c-desafio-dio-hospedagem-hotel.runtimeconfig.json
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\bin\Debug\net8.0\c-desafio-dio-hospedagem-hotel.dll
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\bin\Debug\net8.0\c-desafio-dio-hospedagem-hotel.pdb
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\obj\Debug\net8.0\c-desafio-dio-hospedagem-hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\obj\Debug\net8.0\c-desafio-dio-hospedagem-hotel.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\obj\Debug\net8.0\c-desafio-dio-hospedagem-hotel.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\obj\Debug\net8.0\c-desafio-dio-hospedagem-hotel.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\obj\Debug\net8.0\c-desafio-dio-hospedagem-hotel.sourcelink.json
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\obj\Debug\net8.0\c-desafio-dio-hospedagem-hotel.dll
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\obj\Debug\net8.0\refint\c-desafio-dio-hospedagem-hotel.dll
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\obj\Debug\net8.0\c-desafio-dio-hospedagem-hotel.pdb
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\obj\Debug\net8.0\c-desafio-dio-hospedagem-hotel.genruntimeconfig.cache
+C:\Users\bruna\OneDrive\Documentos\c#\c-desafio-dio-hospedagem-hotel\obj\Debug\net8.0\ref\c-desafio-dio-hospedagem-hotel.dll
